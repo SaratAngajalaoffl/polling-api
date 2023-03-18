@@ -3,11 +3,13 @@ This project is an **Express** backend that serves as the backend for a polling 
 
 # Folder Structure
 
+```
 src
 ├── controllers
 ├── models
 ├── routes
 └── utils
+```
 
 ## Installation
 ### Clone the repository:
